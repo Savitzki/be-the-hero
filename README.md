@@ -1,3 +1,3 @@
-# Projeto da Semana Omminitack 11
+# Projeto da Semana Omnistack 11
 
 Projeto utilizando Nodejs e Reactjs
